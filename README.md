@@ -1,0 +1,2 @@
+# AI-farmer-adivsory
+SIH HACKTHON PROBLEM STATeMENT 
